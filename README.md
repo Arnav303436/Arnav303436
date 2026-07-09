@@ -1,6 +1,6 @@
 # Hi, I'm Arnav 👋
 
-CS student at Chandigarh University (4th semester), building interactive web and app experiences — from music players to school apps to data visualizers.
+CS student at Chandigarh University (5th semester), building interactive web and app experiences — from music players to school apps to data visualizers.
 
 ## 🚀 What I Do
 
