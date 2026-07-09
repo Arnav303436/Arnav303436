@@ -18,9 +18,8 @@ Data Structures & Algorithms · Operating Systems · Android Development · Soft
 
 ## 📫 Reach Me
 
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourhandle](#)
-- Instagram: [@yourhandle](#)
+- LinkedIn: https://www.linkedin.com/in/arnav-sharma-78283541b/
+- Instagram: @ar.__.nav
 
 ---
 ⭐️ From [Arnav](https://github.com/yourhandle)
